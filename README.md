@@ -24,7 +24,7 @@ A compact retail support demo with tool execution, persistent business state, an
 
 ### [docx4j](https://github.com/plutext/docx4j)
 
-Contributor to docx4j, a Java library for working with Microsoft Office documents. I am acknowledged as **Manimala Kumar** in the [docx4j 3.0.1 release metadata](https://central.sonatype.com/artifact/org.docx4j/docx4j/3.0.1).
+Contributor to docx4j, an open-source library for processing document content and structure in XML-based formats. I am acknowledged as **Manimala Kumar** in the [docx4j 3.0.1 release metadata](https://central.sonatype.com/artifact/org.docx4j/docx4j/3.0.1).
 
 ## Earlier work
 
