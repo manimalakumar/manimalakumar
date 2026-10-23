@@ -1,16 +1,33 @@
-## Hi there 👋
+# AI Playground 👋
 
-<!--
-**manimalakumar/manimalakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 A space to build, experiment, and learn together about AI systems.
 
-Here are some ideas to get you started:
+🌱 I share hands-on projects, evaluation workflows, and lessons from exploring how AI systems work—and what it takes to make them useful. These projects are starting points for others to explore, reproduce, question, and extend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I work at the intersection of AI systems, developer platforms, and product decisions. My work spans open foundation models at NVIDIA and, previously, AI developer platforms and ecosystems at Intel. Explore the projects, share questions, and learn along with me.
+
+## Selected projects
+
+### [Retrieval-to-generation evaluation](https://github.com/manimalakumar/rag-reranking-evaluation)
+
+**Does better retrieval lead to better answers—and what does reranking cost in latency?**
+
+A study connecting retrieval quality, generated answers, and latency
+
+### [Retail agent and workflow evaluation](https://github.com/manimalakumar/Hermes-Agent-n-Eval)
+
+**Did the agent complete the customer's task correctly?**
+
+A compact retail support demo with tool execution, persistent business state, and outcome-based evaluation.
+
+## Open-source contributions
+
+### [docx4j](https://github.com/plutext/docx4j)
+
+Contributor to docx4j, a Java library for working with Microsoft Office documents. I am acknowledged as **Manimala Kumar** in the [docx4j 3.0.1 release metadata](https://central.sonatype.com/artifact/org.docx4j/docx4j/3.0.1).
+
+## Earlier work
+
+- **[Autonomous vehicle report processing](https://github.com/manimalakumar/Autonomous-Vehicle-CA-DMV):** Documentation and examples from an OCR/NLP pipeline for California DMV collision reports. The current repository contains the write-up; pipeline source is not included.
+- **[Clustering and feature transformation](https://github.com/manimalakumar/ML-Unrevealed):** Earlier machine-learning experiments with clustering, dimensionality reduction, and revenue-prediction data.
+- **[Regression and feature engineering](https://github.com/manimalakumar/ML-Agog):** Earlier learning exercises in price prediction.
