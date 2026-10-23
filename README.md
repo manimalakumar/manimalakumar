@@ -12,7 +12,7 @@
 
 **Does better retrieval lead to better answers—and what does reranking cost in latency?**
 
-A study connecting retrieval quality, generated answers, and latency
+A study connecting retrieval quality, generated answers, and latency.
 
 ### [Retail agent and workflow evaluation](https://github.com/manimalakumar/Hermes-Agent-n-Eval)
 
