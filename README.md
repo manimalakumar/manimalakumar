@@ -12,7 +12,13 @@
 
 **Does better retrieval lead to better answers—and what does reranking cost in latency?**
 
-A study connecting retrieval quality, generated answers, and latency.
+Experiments evaluating retrieval quality, generated answers, and latency.
+
+### [Inference economics of coding agents](https://github.com/manimalakumar/coding-agent-inference)
+
+**What does it cost for a coding agent to produce an accepted patch?**
+
+A coding-agent workflow and tutorial measuring task success, context use, and inference cost on repository-maintenance tasks.
 
 ### [Retail agent and workflow evaluation](https://github.com/manimalakumar/Hermes-Agent-n-Eval)
 
