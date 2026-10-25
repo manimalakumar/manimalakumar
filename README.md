@@ -26,11 +26,15 @@ A coding-agent workflow and tutorial measuring task success, context use, and in
 
 A compact retail support demo with tool execution, persistent business state, and outcome-based evaluation.
 
+## Writing
+
+- [AI evaluation](https://manimalakumar.substack.com/p/eval-the-new-contract-between-technology) — on Substack.
+
 ## Open-source contributions
 
 ### [docx4j](https://github.com/plutext/docx4j)
 
-Contributor to docx4j, an open-source library for processing document content and structure in XML-based formats. I am acknowledged as **Manimala Kumar** in the [docx4j 3.0.1 release metadata](https://central.sonatype.com/artifact/org.docx4j/docx4j/3.0.1).
+- Contributor to docx4j, an open-source library for processing document content and structure in XML-based formats. I am acknowledged as **Manimala Kumar** in the [docx4j 3.0.1 release metadata](https://central.sonatype.com/artifact/org.docx4j/docx4j/3.0.1).
 
 ## Earlier work
 
