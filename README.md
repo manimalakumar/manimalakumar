@@ -35,5 +35,5 @@ Contributor to docx4j, an open-source library for processing document content an
 ## Earlier work
 
 - **[Autonomous vehicle report processing](https://github.com/manimalakumar/Autonomous-Vehicle-CA-DMV):** Documentation and examples from an OCR/NLP pipeline for California DMV collision reports. The current repository contains the write-up; pipeline source is not included.
-- **[Clustering and feature transformation](https://github.com/manimalakumar/ML-Unrevealed](https://github.com/manimalakumar/ml-clustering-feature-transformation):** Earlier machine-learning experiments with clustering, dimensionality reduction, and revenue-prediction data.
+- **[Clustering and feature transformation](https://github.com/manimalakumar/ml-clustering-feature-transformation):** Earlier machine-learning experiments with clustering, dimensionality reduction, and revenue-prediction data.
 - **[Regression and feature engineering](https://github.com/manimalakumar/ML-Agog](https://github.com/manimalakumar/ml-regression-feature-engineering):** Earlier learning exercises in price prediction.
