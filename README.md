@@ -28,7 +28,7 @@ A compact retail support demo with tool execution, persistent business state, an
 
 ## Writing
 
-- [AI evaluation](https://manimalakumar.substack.com/p/eval-the-new-contract-between-technology) — on Substack.
+- [AI evaluation](https://manimalakumar.substack.com/p/eval-the-new-contract-between-technology): building trust in agentic AI through evaluation of business outcomes.
 
 ## Open-source contributions
 
