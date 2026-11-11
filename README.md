@@ -20,7 +20,7 @@ A coding-agent workflow and tutorial measuring task success, context use, and in
 
 Experiments evaluating retrieval quality, generated answers, and latency.
 
-### [Local AI Inference, Optimization, and Serving Lab](https://github.com/manimalakumar/local-ai-inference)
+### [Local AI inference, optimization, and serving lab](https://github.com/manimalakumar/local-ai-inference)
 
 **How can developers optimize local AI applications and what are the tradeoffs across inference stacks?**
 
