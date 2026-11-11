@@ -8,23 +8,23 @@
 
 ## Selected projects
 
-### [Retrieval-to-generation evaluation](https://github.com/manimalakumar/rag-reranking-evaluation)
-
-**Does better retrieval lead to better answers—and what does reranking cost in latency?**
-
-Experiments evaluating retrieval quality, generated answers, and latency.
-
 ### [Inference economics of coding agents](https://github.com/manimalakumar/coding-agent-inference)
 
 **What does it cost for a coding agent to produce an accepted patch?**
 
 A coding-agent workflow and tutorial measuring task success, context use, and inference cost on repository-maintenance tasks.
 
-### [Retail agent and workflow evaluation](https://github.com/manimalakumar/Hermes-Agent-n-Eval)
+### [Retrieval-to-generation evaluation](https://github.com/manimalakumar/rag-reranking-evaluation)
 
-**Did the agent complete the customer's task correctly?**
+**Does better retrieval lead to better answers—and what does reranking cost in latency?**
 
-A compact retail support demo with tool execution, persistent business state, and outcome-based evaluation.
+Experiments evaluating retrieval quality, generated answers, and latency.
+
+### [Local AI Inference, Optimization, and Serving Lab](https://github.com/manimalakumar/local-ai-inference)
+
+**How can developers optimize local AI applications and what are the tradeoffs across inference stacks?**
+
+Hands-on lab demonstrating model serving, latency, and deployment tradeoffs across llama.cpp, vLLM, SGLang, and NVIDIA NIM, including techniques such as quantization and prefix caching.
 
 ## Writing
 
